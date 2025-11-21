@@ -715,7 +715,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"EOCHOToken.sol": "EOCHO"
+			"contracts/EOCHO.sol": "EOCHO"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -801,7 +801,7 @@
 				"dweb:/ipfs/QmadRjHbkicwqwwh61raUEapaVEtaLMcYbQZWs9gUkgj3u"
 			]
 		},
-		"EOCHOToken.sol": {
+		"contracts/EOCHO.sol": {
 			"keccak256": "0xd57acb2f9c34ffd272cb6daca0be812438c254e1792e75f1d61f571a3906e57a",
 			"license": "MIT",
 			"urls": [

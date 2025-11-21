@@ -472,7 +472,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"UserRegistry.sol": "UserRegistry"
+			"contracts/UserRegistry.sol": "UserRegistry"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -598,7 +598,7 @@
 				"dweb:/ipfs/QmadRjHbkicwqwwh61raUEapaVEtaLMcYbQZWs9gUkgj3u"
 			]
 		},
-		"EOCHO.sol": {
+		"contracts/EOCHO.sol": {
 			"keccak256": "0xd57acb2f9c34ffd272cb6daca0be812438c254e1792e75f1d61f571a3906e57a",
 			"license": "MIT",
 			"urls": [
@@ -606,7 +606,7 @@
 				"dweb:/ipfs/QmaEfvsttuWSqPG82Bw9bfM8o7yUt8ZwmbgPaKodVS79w7"
 			]
 		},
-		"UserRegistry.sol": {
+		"contracts/UserRegistry.sol": {
 			"keccak256": "0x23c1fbaa185662f7b2b66fba7de5729fbc06954fbe0363fb8e8cfafdcee7c775",
 			"license": "MIT",
 			"urls": [
